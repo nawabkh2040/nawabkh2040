@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Django, Python, Scikit-learn**
 
 - 📝 I write articles on [https://indianhackern.blogspot.com/](https://indianhackern.blogspot.com/)
+  
+- My Portfolio [https://nawabkh2040.github.io/portfolio/](https://nawabkh2040.github.io/portfolio/)
 
 - 💬 Ask me about **Python, C, C++, HTML, CSS, JAVASCRIPT ,Linux**
 
